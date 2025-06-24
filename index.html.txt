@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>First Secondary School of Kherlen</title>
+</head>
+<body>
+  <h1>Welcome to First Secondary School of Kherlen</h1>
+  <p>This is a simple test page to verify GitHub Pages is working.</p>
+</body>
+</html>
